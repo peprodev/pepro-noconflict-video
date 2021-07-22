@@ -1,0 +1,56 @@
+/**
+ * @Author: Amirhosseinhpv
+ * @Date:   2021/07/08 10:01:18
+ * @Email:  its@hpv.im
+ * @Last modified by:   Amirhosseinhpv
+ * @Last modified time: 2021/07/08 18:33:18
+ * @License: GPLv2
+ * @Copyright: Copyright © Amirhosseinhpv (https://hpv.im), all rights reserved.
+ */
+
+.video2_class .wpb_element_title {
+	position: absolute;
+	display: flex;
+	align-items: center;
+}
+.wpb_el_type_pepro_mediapicker {
+	display: block;
+	background: #e3e5e5 none repeat scroll 0% 0%;
+	padding: 4px 0.3rem;
+	margin: 2rem 1rem;
+	border-radius: 4px;
+	direction: ltr;
+	line-height: 1.6;
+	font-family: Consolas;
+}
+.vc_col-sm-6.pp-bottom {
+	border-bottom: 1px solid #ececec;
+	padding-bottom: 1rem;
+}
+
+/* common vc css fix for rtl-ready */
+.vc_css-editor select {
+	width: 100% !important;
+	text-align: right;
+}
+[dir="rtl"] .vc_general.vc_ui-tabs-line>li {
+	float: right;
+}
+[dir="rtl"] .vc_ui-panel-header .vc_ui-panel-header-controls {
+	float: left;
+	margin: 2px 12px 0 0;
+}
+[dir="rtl"] .vc_ui-panel-header .vc_ui-panel-header-heading {
+	margin: 0 0 1rem 1rem;
+}
+[dir="rtl"] .vc_add-element-container .wpb-content-layouts li {
+	float: right;
+}
+[dir="rtl"] .vc_add-element-container .vc_element-icon {
+	position: absolute;
+	top: 20px;
+	right: 8px;
+}
+[dir="rtl"] .vc_add-element-container .wpb-content-layouts a {
+	padding: 2px 47px 4px 2px;
+}

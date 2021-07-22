@@ -1,0 +1,111 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Pepro noConflict Video\n"
+"POT-Creation-Date: 2021-07-08 18:14+0430\n"
+"PO-Revision-Date: 2021-07-08 18:08+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pepro-video.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: pepro-video.php:59 pepro-video.php:80
+msgid "noConflict Video"
+msgstr ""
+
+#: pepro-video.php:60
+#, php-format
+msgid "%2$s ver. %1$s"
+msgstr ""
+
+#: pepro-video.php:81
+msgid "noConflict WordPress Video widget"
+msgstr ""
+
+#: pepro-video.php:88
+msgid "Pepro Elements"
+msgstr ""
+
+#: pepro-video.php:91
+msgid "Source URL (Mp4)"
+msgstr ""
+
+#: pepro-video.php:97
+msgid "Source URL (Webm)"
+msgstr ""
+
+#: pepro-video.php:103
+msgid "Width"
+msgstr ""
+
+#: pepro-video.php:110
+msgid "Height"
+msgstr ""
+
+#: pepro-video.php:117
+msgid "Poster"
+msgstr ""
+
+#: pepro-video.php:123
+msgid "Play Icon"
+msgstr ""
+
+#: pepro-video.php:129
+msgid "Play Icon Width (e.g. 80px)"
+msgstr ""
+
+#: pepro-video.php:136
+msgid "Play Icon Height (e.g. 80px)"
+msgstr ""
+
+#: pepro-video.php:143
+msgid "Extra class"
+msgstr ""
+
+#: pepro-video.php:149
+msgid "Border radius (e.g. 10px)"
+msgstr ""
+
+#: pepro-video.php:155
+msgid "Loop"
+msgstr ""
+
+#: pepro-video.php:161
+msgid "Autoplay"
+msgstr ""
+
+#: pepro-video.php:250
+msgid "Support"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Pepro noConflict Video"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://pepro.dev/vc-video"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "noConflict WordPress Video widget for WPBakery Page Builder"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pepro Dev. Group"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://pepro.dev/"
+msgstr ""
