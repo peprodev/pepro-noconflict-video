@@ -4,7 +4,7 @@ Donate link: https://pepro.dev/donate
 Tags: Functionality, Visual Composer, WPBakery Page Builder, Video, Video Widget
 Requires at least: 5.0
 Tested up to: 5.8
-Stable tag: 1.1.0
+Stable tag: 1.2.0
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -43,6 +43,10 @@ You can help us improve our works by committing your changes to Pepro Dev's GitH
 2. Setting on Back-end (WPBakery Page Builder Widget)
 
 == Changelog ==
+
+= 1.2.0 =
+
+- Fixed New WP Media Picker Bug
 
 = 1.1.0 =
 

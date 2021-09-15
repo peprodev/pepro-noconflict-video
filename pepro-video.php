@@ -9,8 +9,8 @@ Developer: Amirhosseinhpv
 Author URI: https://pepro.dev/
 Developer URI: https://hpv.im/
 Plugin URI: https://pepro.dev/vc-video
-Version: 1.1.0
-Stable tag: 1.1.0
+Version: 1.2.0
+Stable tag: 1.2.0
 Requires at least: 5.0
 Tested up to: 5.8
 Requires PHP: 5.6
@@ -55,7 +55,7 @@ if (!class_exists("pepro_vc_video")) {
             $this->plugin_basename = plugin_basename(__FILE__);
             $this->url = admin_url("admin.php?page={$this->db_slug}");
             $this->plugin_file = __FILE__;
-            $this->version = "1.1.0";
+            $this->version = "1.2.0";
             $this->title = __("noConflict Video", $this->td);
             $this->title_w = sprintf(__("%2\$s ver. %1\$s", $this->td), $this->version, $this->title);
             add_action("init", array($this, 'init_plugin'));
@@ -73,7 +73,6 @@ if (!class_exists("pepro_vc_video")) {
         }
         public function pepro_vc_video_integrate()
         {
-          wp_enqueue_media();
           vc_map(
             array(
               'name'                    => __('noConflict Video', $this->td),
