@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Pepro noConflict Video
+Plugin Name: PeproDev noConflict Video
 Description: noConflict WordPress Video widget for WPBakery Page Builder
 Contributors: amirhosseinhpv
 Tags: Functionality, Visual Composer, WPBakery Page Builder, Video, Video Widget

@@ -1,4 +1,4 @@
-=== Pepro noConflict Video ===
+=== PeproDev noConflict Video ===
 Contributors: amirhosseinhpv
 Donate link: https://pepro.dev/donate
 Tags: Functionality, Visual Composer, WPBakery Page Builder, Video, Video Widget
