@@ -12,7 +12,7 @@ Plugin URI: https://pepro.dev/vc-video
 Version: 1.2.0
 Stable tag: 1.2.0
 Requires at least: 5.0
-Tested up to: 5.8
+Tested up to: 5.9
 Requires PHP: 5.6
 Text Domain: pepro-video
 Domain Path: /languages

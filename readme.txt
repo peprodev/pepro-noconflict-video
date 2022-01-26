@@ -3,7 +3,7 @@ Contributors: amirhosseinhpv
 Donate link: https://pepro.dev/donate
 Tags: Functionality, Visual Composer, WPBakery Page Builder, Video, Video Widget
 Requires at least: 5.0
-Tested up to: 5.8
+Tested up to: 5.9
 Stable tag: 1.2.0
 Requires PHP: 5.6
 License: GPLv2 or later
